@@ -36,13 +36,9 @@ body {
 }
 
 .paper.image {
-  width: 200px;
-  height: 200px;
   padding: 10px;
 }
 .paper.image p {
-  width: 200px;
-  height: 200px;
   font-size: 30px;
 }
 
